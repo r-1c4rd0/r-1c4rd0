@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Ricardo Santiago
-- 🔭 Hoje estou trabalhando como Q.A
+- 🔭 Hoje estou trabalhando como Programador Java.
 - 🌱 Estudando App Development
 - 😄 Pronouns: ele/dele
 
